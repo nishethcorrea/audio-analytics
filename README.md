@@ -1,5 +1,4 @@
 # audio-analytics
-
 Web based Age, Gender and Emotion detector
 
 React + Vite, Python + FastAPI
@@ -42,3 +41,4 @@ npm run dev
 ```
 
 App will run at: [http://localhost:5173](http://localhost:5173)
+
