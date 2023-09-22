@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+:root {
+  max-width: 345;
+  flex-grow: 1;
+}
+
+.MuiDropzoneArea-root {
+  background-color: transparent !important;
+}
+
+.MuiPaper-root {
+  background-color: transparent;
+}
+
+.appbar {
+  background: url("/bg.png");
+}
+
+.tool {
+  background-image: url("/bg.png");
+}
+
+.typography {
+  font-weight: bold !important;
+  margin: auto !important;
+  font-size: 1.5rem !important;
+}
+
+.tool1 {
+  background-image: url("./IrM.gif");
+}
+
+.typography1 {
+  font-style: italic;
+  color: white;
+  margin: auto !important;
+}
+
+strong {
+  font-size: 1.5em;
+  color: yellow;
+}
+
+.main-container {
+  background-image: url("./BLkE.gif");
+  margin-top: -22px;
+  height: 82.8vh;
+}
+
+.grid-container {
+  justify-content: center;
+  padding: 4em 1em 0 1em;
+}
+
+.audioCard {
+  margin: auto;
+  height: auto;
+  width: 400px;
+  background-color: transparent;
+  box-shadow: 0px 9px 70px 0px rgb(0 0 0 / 30%) !important;
+  border-radius: 15px;
+}
+
+.audioCardEmpty {
+  height: auto;
+  width: 400px;
+}
+
+.detail {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.table-container {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.table {
+  background-color: transparent !important;
+}
+
+.table-head {
+  background-color: transparent !important;
+}
+
+.table-row {
+  background-color: transparent !important;
+}
+
+.table-cell {
+  font-size: 14px;
+  background-color: transparent !important;
+  border-color: transparent !important;
+  color: #000000a6 !important;
+  font-weight: bolder;
+  padding: 1px 24px 1px 16px;
+}
+
+.table-body {
+  background-color: transparent !important;
+}
+
+.table-cell1 {
+  font-size: 22px;
+  background-color: transparent !important;
+  border-color: transparent !important;
+  color: #000000a6 !important;
+  font-weight: bolder;
+  padding: 1px 24px 1px 16px;
+}
+
+.loader {
+  color: #be6a77 !important;
+}
+
+.button-grid {
+  max-width: 216px;
+  width: 100%;
+}
+
+.clear-button {
+  width: 200px;
+  border-radius: 15px;
+  padding: 15px 22px;
+  color: #000000a6;
+  font-size: 20px;
+  font-weight: 900;
+}
